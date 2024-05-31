@@ -13,7 +13,7 @@ Authors@R: c(
        email = "hill.ryan@epa.gov",
        comment = c(ORCID = "0000-0001-9583-0426"))
     )
-Description: What the package does (one paragraph).
+Description: Contains data for the Spatial Analysis and Statistical Modeling with R and spmodel workshop at the Society for Freshwater Science 2024 meeting.
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
