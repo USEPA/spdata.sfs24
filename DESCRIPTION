@@ -1,4 +1,4 @@
-Package: data.sfs2024
+Package: spdata.sfs24
 Title: Package that contains data for the Spatial Analysis and Statistical Modeling with R and spmodel workshop at the Society for Freshwater Science 2024 meeting
 Version: 0.0.0.9000
 Authors@R: c(
