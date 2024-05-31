@@ -1,3 +1,19 @@
+#' Conductivity NLA Data
+#'
+#' @description Conductivity NLA Data
+#'
+#' @format An \code{sf} object with 162 rows and 5 columns:
+#'
+#' \itemize{
+#'   \item COMID: text
+#'   \item COND_RESULT: text
+#'   \item AREA_HA: text
+#'   \item year: text
+#'   \item geometry: \code{POINT} geometry representing coordinates in a
+#'   NAD83 projection (EPSG: 5070).
+#' }
+"cond_nla_data"
+
 #' Conductivity Model Data
 #'
 #' @description Conductivity Model Data
