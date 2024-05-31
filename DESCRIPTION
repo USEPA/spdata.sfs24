@@ -1,11 +1,23 @@
-Package: spatialSFS24
-Title: Package that contains data for the Spatial Analysis and Statistical Modeling with R and spmodel workshop at the Society for Freshwater Science 2024 meeting.
+Package: data.sfs2024
+Title: Package that contains data for the Spatial Analysis and Statistical Modeling with R and spmodel workshop at the Society for Freshwater Science 2024 meeting
 Version: 0.0.0.9000
-Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+Authors@R: c(
+    person(given = "Michael",
+           family = "Dumelle",
+           role = c("aut", "cre"),
+           email = "Dumelle.Michael@epa.gov",
+           comment = c(ORCID = "0000-0002-3393-5529")),
+    person(given = "Ryan A.",
+       family = "Hill",
+       role = "ctb",
+       email = "hill.ryan@epa.gov",
+       comment = c(ORCID = "0000-0001-9583-0426"))
+    )
 Description: What the package does (one paragraph).
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
+Depends: 
+    R (>= 2.10)
+LazyData: true
