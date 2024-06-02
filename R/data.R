@@ -103,3 +103,11 @@
 #'   NAD83 projection (EPSG: 5070).
 #' }
 "argia_pred_data_small"
+
+#' Argia Sample Location COMIDs
+#'
+#' @description Argia Sample Location COMIDs
+#'
+#' @format A character vector of COMIDs for the sample locations in
+#'   \code{argia_model_data}.
+"comids"
